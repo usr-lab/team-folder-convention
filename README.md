@@ -10,4 +10,4 @@ This repos describes the naming convention of Uppsala Social Robotics Lab.
  - Do not use spaces in any folder or file name (these appear as an ugly '%20' in the URL).
  - Build no more than 3 levels of Folders.
  - Reference the short version of the URL when sending to others to use ('How To Shorten SharePoint URLs).
- - For sorting by filename, use consistent naming conventionse.g.,  2015-01-15 sorts after  2014-11-07. One way to name is 'YYYYMMDDSystemName', e.g.,  20150207PMGalayda.
+ - For sorting by filename, use consistent naming conventionse.g.,  2015-01-15 sorts after  2014-11-07. 
