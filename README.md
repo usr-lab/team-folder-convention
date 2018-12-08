@@ -4,7 +4,7 @@ This repos describes the naming convention of Uppsala Social Robotics Lab.
 
 ---
  - Keep folder and file names short.
- - Use a *README.md* to describe what is contained in the folder.
+ - Use a *README.txt* to describe what is contained in the folder.
  - Use '-' for seperators in the file names and use upper camel case for folder naming (e.g. UpperCamelCase). 
  - Do not use illegal web characters '.'()', '/', '&', etc.
  - Do not use spaces in any folder or file name (these appear as an ugly '%20' in the URL).
