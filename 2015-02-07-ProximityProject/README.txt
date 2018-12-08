@@ -1,0 +1,3 @@
+Proximity Project Folder
+
+This folder contains all the data from proximity study. The study was conducted on ...
