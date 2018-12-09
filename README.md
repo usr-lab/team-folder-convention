@@ -1,4 +1,4 @@
-# USR Lab Team Folder Naming Concention
+# USR Lab Team Folder Naming Convention
 
 This repos describes the naming convention of Uppsala Social Robotics Lab.
 
